@@ -8,9 +8,10 @@ color:#0362AD !important;
 .Box-title,.Box,h3{
 	color:blueviolet!important;
 }
-.pl-s1,.pl-pds,.pl-c,.pl-c1,.pl-k,.pl-2,.blob-code,.octicon-mark-github{
+.pl-s1,.pl-pds,.pl-c,.pl-c1,.pl-k,.pl-2,.blob-code,.octicon-mark-github,.text-gray-dark{
 	color:white !important;
 }
+
 .pl-smi{
 	color:green !important;;
 }
