@@ -1,20 +1,51 @@
-body,.pagehead,.site-header{
-background: black !important;
-color: white !important;
+body, .pagehead, .site-header, .bg-gray, .bg-white, .box, .Box, .reponav-item, .commit-tease, .file-wrap, .files,  .js-navigation-item,  .btn-sm, .social-count, .file-info, .file-header, .file, .instapaper-body, .blob, article, .file-box, .file-editor-textarea,.SelectMenu-modal,.SelectMenu,.SelectMenu-list,.SelectMenu-header,.flex-column,.SelectMenu-icon,.SelectMenu-item,.Box-header,.reponav-wrapper ,.SelectMenu-message,.SelectMenu-input,.js-line-number,.form-control,.menu,h3,.boxed-group-inner,.num,.user-profile-sticky-bar,.js-pjax-container,.user-profile-sticky-bar::after  {
+    background: rgb(36, 36, 36) !important;
+    color: white !important;
 }
-a{
-color:#0362AD !important;
+.btn, .btn-sm, .social-count, .js-social-container {
+    border: 20px !important;
+    border-color: white !important;
 }
-.Box-title,.Box,h3{
-	color:blueviolet!important;
+a, .link-gray-dark, .btn-link {
+    color: rgb(197, 197, 197) !important;
+    
 }
-.pl-s1,.pl-pds,.pl-c,.pl-c1,.pl-k,.pl-2,.blob-code,.octicon-mark-github,.text-gray-dark{
-	color:white !important;
+.text-gray-dark{
+    color: rgb(63, 63, 63) !important;
 }
-
-.pl-smi{
-	color:green !important;;
+.Header,.bg-gray-light,.table-list-header,.bg-blue-light,.UnderlineNav,.Header-item  {
+    background: rgb(24, 24, 24) !important;
 }
-.file-info,p{
-	color:black!important;
+#account-switcher-left{
+    box-shadow: 0px 0px 5px 10px rgba(255,255,255,1) !important;
+    background: rgba(255, 255, 255, 1) !important;
+}
+.flash-success{
+    background: rgb(27, 58, 27) !important;
+    color:green;
+}
+.f4 > .text-gray-dark{
+color:rgb(190, 190, 190) !important;
+}
+.navigation-focus[aria-selected="true"],.navigation-focus[aria-selected="true"] > .content,.navigation-focus[aria-selected="true"] > .icon,.navigation-focus[aria-selected="true"] > .message,.selected{ 
+    background: rgb(54, 54, 54) !important;
+}
+.link-gray:hover,.final-path{
+    color: rgb(214, 214, 214) !important;
+}
+.blob-code, .octicon-mark-github, .text-gray, .octicon {
+    color: white !important;
+}
+.pl-s1 {
+    color: rgb(0, 187, 0) !important;
+    ;
+}
+.pl-s{
+    color: rgb(0, 119, 255)
+}
+.pl-c{
+    color: #7a6179 !important;
+}
+.file-info {
+    color: rgb(36, 36, 36)!important;
 }
